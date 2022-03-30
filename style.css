@@ -1,0 +1,37 @@
+.fundo {
+  background: linear-gradient(#FFFFFF 05%, #F0F2F0 10%, #CCCCCC, #434343, #000000);
+}
+
+.navbar {
+  color: #FFFFFF
+}
+
+.carousel {
+  margin: 0 100px;
+}
+
+.img-car {
+  object-fit: cover;
+  height: 400px;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+
+/*footer*/
+.caixa {
+  position: relative;
+  margin-left: 300px;
+}
